@@ -20,7 +20,7 @@ if (!empty($_POST)) {
         <div class="container">
             <div class="header">
                 <ul class="nav nav-pills pull-right">
-                    <li><a href="setup.php">Help</a></li>
+                    <li><a href="https://github.com/rpmjoaquin/PHP-RPM#setting-up">Help</a></li>
                     <li><a href="http://rpmsoftware.wordpress.com">API Documentation</a></li>
                     <li><a href="http://rpmsoftware.com">Rpm Software</a></li>
                 </ul>
